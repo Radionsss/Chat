@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tvDeleteEveryone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Удалить для всех"
+        android:textAlignment="textEnd"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tvDeleteForMe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Удалить для меня"
+        android:textAlignment="textEnd"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tvCancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Отмена"
+        android:textAlignment="textEnd"
+        android:padding="15dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670706938811",
+    "project_id": "chatmain-d0296",
+    "storage_bucket": "chatmain-d0296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670706938811:android:2a3a611001e055bfce4a9e",
+        "android_client_info": {
+          "package_name": "com.example.chatmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670706938811-ivmgma2e8kramnuct9r41khltsqrel4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlK5-ZndRW6tVXlv4Fi2C5vSvIkCb82xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670706938811-ivmgma2e8kramnuct9r41khltsqrel4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
